@@ -23,9 +23,6 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeThnbDQ5cmVrYnBkcGp2dHZkdWQybjFpOXVjNHduaGR2dnRnYjRjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BuiWalMAqdDgv7IYBK/giphy.gif
 )
 <img src="https://github.com/Btech-IT-NPR-College/Startup-Project?tab=readme-ov-file/aaa.png">
-### Startup Prediction Performance
-
-![demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzd4Mmd3dXQ1cm9rM2lzemx5ajBzcmF3dDU0dDBjcTFpbXU5bDcwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qLnwPvnST1VznZyhb8/giphy.gif)
 
 
 ## Requirements
