@@ -19,7 +19,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 # Startup-Company-Machine-Learning with Streamlit Demo
 
 
-<img src="https://strapi.mocerohealth.in/uploads/AI_powered_Glycemic_Control_Future_of_Diabetes_Management_020966def0.jpg"  height=15% width=40% >    
+<img src="https://strapi.mocerohealth.in/uploads/AI_powered_Glycemic_Control_Future_of_Diabetes_Management_020966def0.jpg"  height=40% width=70% >    
 
 ## Requirements
 Python 3.9.13
