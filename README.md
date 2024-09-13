@@ -41,22 +41,21 @@ Numpy
 Scikit-learn
 
 ## How to Run
-* Clone the repository
-
+* conda create -n dipiaties
 ```
 $ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
 ```
-* Setup Virtual Environment
+* conda activate dipiaties
 
 ```
 $ python3 -m venv env
 ```
-* Activate the virtual environment
+* pip insteall requirements -r.txt
 
 ```
 $ env\Scripts\activate
 ```
-* Install dependencies using
+* install streamlit run main.py
 
 ```
 $ pip install -r requirements.txt
