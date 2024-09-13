@@ -19,7 +19,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 # Startup-Company-Machine-Learning with Streamlit Demo
 
 
-<img src="https://github.com/Btech-IT-NPR-College/Startup-Project?tab=readme-ov-file/aaa.png">
+
 
 
 ## Requirements
