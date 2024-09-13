@@ -33,7 +33,7 @@ Scikit-learn
 ## How to Run
 * conda create -n dipiaties
 ```
-$ git clone https://github.com/Hirthick6/Startup-Company-Machine-Learning.git
+$ git clone https://github.com/KavinKumar-N/Startup-Company-Machine-Learning.git
 ```
 * conda activate dipiaties
 
