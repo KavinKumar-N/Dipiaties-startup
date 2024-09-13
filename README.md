@@ -1,4 +1,4 @@
-# Startup-Company-Machine-Learning with Streamlit 
+# Diabetes-Machine-Learning with Streamlit 
 
 "Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">     
@@ -6,17 +6,17 @@
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
 
-[Startup-Company-Machine-Learning with Streamlit ](https://github.com/Hirthick6/Startup-Company-Machine-Learning)
+[Startup-Company-Machine-Learning with Streamlit ](https://github.com/KavinKumar-N/Startup-Company-Machine-Learning)
 
 ![Startup](startup-company-scaled.jpg)
 
 ## Project Overview:
 
-#### Mr. Hirthick have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
+#### Mr. KavinKumaar.N have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
 
 - ### Team Members
 Btech IT Students
-###  If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+###  If you have any doubt or want to contribute feel free to hit me up on (kavinkumarnofficial@gmail.com)
 # Startup-Company-Machine-Learning with Streamlit Demo
 
 ### Home page
@@ -71,5 +71,12 @@ $ streamlit run main.py
 
 
 ## Acknowledgements
-If you have any doubt or want to contribute feel free to hit me up on (hirthicksofficial@gmail.com)
+If you have any doubt or want to contribute feel free to hit me up on (kavinkumarofficial@gmail.com)
 The app uses the Streamlit(<https://github.com/streamlit/streamlit>) library for the user interface.**
+
+
+## Future enhancement
+
+Replacing missing cells with cell therapy
+
+Cell therapy is one of the biggest hopes for developing a cure for diabetes, especially for type 1 diabetes. Replacing the missing insulin-producing cells could potentially recover normal insulin production and cure patients.
