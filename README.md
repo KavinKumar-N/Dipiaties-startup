@@ -8,7 +8,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 [Startup-Company-Machine-Learning with Streamlit ](https://github.com/KavinKumar-N/Startup-Company-Machine-Learning)
 
-![Startup](startup-company-scaled.jpg)
+![Startup]()
 
 ## Project Overview:
 
