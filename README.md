@@ -14,8 +14,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 #### Mr. KavinKumaar.N have successfully completed a groundbreaking project over the course of 2 months, focusing on Startup-Company-Machine-Learning with Streamlit . This collaborative effort showcases their expertise in  machine learning, and software development.
 
-- ### Team Members
-Btech IT Students
+
 ###  If you have any doubt or want to contribute feel free to hit me up on (kavinkumarnofficial@gmail.com)
 # Startup-Company-Machine-Learning with Streamlit Demo
 
