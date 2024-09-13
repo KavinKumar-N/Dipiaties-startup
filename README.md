@@ -1,7 +1,7 @@
 # Diabetes-Machine-Learning with Streamlit 
 
 "Startup-Company-Machine-Learning with Streamlit" likely refers to a project or initiative where a startup company is leveraging Streamlit, a Python library for creating web applications, to showcase or deploy machine learning models.
-<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" height=15% width=40% align="right">     
+<img src="https://media2.giphy.com/media/bPrQNxMDRbf4BXeJS6/giphy.webp?cid=790b76114idzlnv4am42yexs6f12az21ujl102d5l9qv3d67&ep=v1_gifs_search&rid=giphy.webp&ct=g" height=15% width=40% align="right">     
 ## Demo WebApp
 
 This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for the community support for the cloud upload. You can check the demo of this web application on the link below.
