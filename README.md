@@ -18,7 +18,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ###  If you have any doubt or want to contribute feel free to hit me up on (kavinkumarnofficial@gmail.com)
 # Startup-Company-Machine-Learning with Streamlit Demo
 
-![startup company]
+![startup company](https://github.com/KavinKumar-N/Dipiaties-startup/blob/main/dipiaties)
 
 
 ## Requirements
